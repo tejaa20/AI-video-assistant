@@ -1,0 +1,6 @@
+.venv/
+.env
+
+
+__pycache__/
+chroma_db/  # Or whatever folder your vector store is saved in
